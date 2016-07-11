@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "---\ntitle: \"Assignment 1\"\nauthor: \"Bongani Mveng\"\ndate: \"11 July 2016\"\noutput: pdf_document\n---\n\n##Hello Octocat\n\nI love Octocat. She's the coolest cat in town. \n\nimage: ![](C:\\Users\\BonGanI_2\\Pictures\\octocat.png)\n",
+    "contents" : "---\ntitle: \"Assignment 1\"\nauthor: \"Bongani Mveng\"\ndate: \"11 July 2016\"\noutput: pdf_document\n---\n\n##Hello Octocat\n\nI love Octocat. She's the coolest cat in town. \n\n![](C:\\Users\\BonGanI_2\\Pictures\\octocat.png)\n",
     "created" : 1468238216386.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2079153276",
+    "hash" : "655723735",
     "id" : "7FFB2EF0",
-    "lastKnownWriteTime" : 1468248139,
-    "last_content_update" : 1468248139964,
+    "lastKnownWriteTime" : 1468249189,
+    "last_content_update" : 1468249189737,
     "path" : "~/STATS STUFF/Course-mark Assignment 1/Course-mark Assignment 1/README.Rmd",
     "project_path" : "README.Rmd",
     "properties" : {

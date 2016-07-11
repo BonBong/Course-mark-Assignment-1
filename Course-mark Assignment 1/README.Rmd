@@ -9,4 +9,4 @@ output: pdf_document
 
 I love Octocat. She's the coolest cat in town. 
 
-image: ![](C:\Users\BonGanI_2\Pictures\octocat.png)
+![](C:\Users\BonGanI_2\Pictures\octocat.png)
